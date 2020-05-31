@@ -1,0 +1,5 @@
+Basic Arduino Sketch to read and write position values form/to AX12A 
+servo motors.
+
+I will update the circuit I used later. But it only contains a tri-state 
+buffer to control Rx-Tx for half UART communication.
